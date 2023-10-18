@@ -18,6 +18,10 @@ import java.util.GregorianCalendar;
  */
 @WebServlet("/emailList")
 public class EmailListServlet extends HttpServlet {
+	public EmailListServlet() {
+
+	}
+
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 		String action = req.getParameter("action");
