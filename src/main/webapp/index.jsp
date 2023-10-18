@@ -2,7 +2,9 @@
 <%@ include file ="./header.html" %>
 	<main>
 		<!-- Breadcrumb -->
+		<div>
 		<c:import url="breadcrumb.html" />
+		</div>
 		<div>
 			<h1>Join our email list</h1>
 			<p>To join our email list, enter your name and email address

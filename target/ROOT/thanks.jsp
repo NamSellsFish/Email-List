@@ -9,8 +9,9 @@
 <link rel="stylesheet" href="./main.css" type="text/css" />
 </head>
 <body>
-	<!-- Breadcrumb -->
-	<c:import url="breadcrumb.html" />
+	<div>
+		<c:import url="breadcrumb.html" />
+	</div>
 	<h1>Thanks for joining our email list</h1>
 	<p>Here is the information that you entered</p>
 	<label>Email: </label>
