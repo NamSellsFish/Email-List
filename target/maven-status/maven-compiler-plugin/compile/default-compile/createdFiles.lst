@@ -1,3 +1,4 @@
+nsf\com\User.class
+nsf\com\UserIO.class
 nsf\com\EmailListServlet.class
 nsf\com\TestServlet.class
-nsf\com\User.class

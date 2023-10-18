@@ -1,6 +1,8 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ include file ="./header.html" %>
 	<main>
+		<!-- Breadcrumb -->
+		<c:import url="breadcrumb.html" />
 		<div>
 			<h1>Join our email list</h1>
 			<p>To join our email list, enter your name and email address
